@@ -1,0 +1,21 @@
+{
+  "id": "char-task-monitor",
+  "name": "Char任务监督陪伴",
+  "version": "1.0.0",
+  "description": "任务管理 + Char定时截屏监督 + App使用时长监控 + AI家教讲解 + 聊天记忆注入。专为ADHD注意力辅助设计。",
+  "author": "Roche Community",
+  "entry": "https://raw.githubusercontent.com/yechen1844/char-task-monitor/main/task-monitor-plugin.js",
+  "hash": "",
+  "permissions": [
+    "persona:read",
+    "character:read",
+    "memory:read",
+    "memory:write",
+    "worldbook:read",
+    "ai:chat",
+    "ai:image",
+    "voice:tts",
+    "storage",
+    "ui"
+  ]
+}
